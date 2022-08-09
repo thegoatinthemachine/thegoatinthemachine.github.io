@@ -1,10 +1,11 @@
 Field Technician
 Char-Em ISD - Charlevoix, MI
 January 2016 to May 2016
+
 Provide temporary support during senior engineer's leave
-
- - Support senior engineers as needed
- - Provide phone support for end-users
- - Perform minor administration tasks under senior guidance
-
-
+ - Supported senior engineers at their direction
+ - Provided remote and in-person support for end-users
+ - Used a ticket system to communicate with users and other IT staff
+ - Installed and configured software, printers, and cabling
+ - Imaged Windows computers with PXEboot using Microsoft Deployment Toolkit
+   (MDT) and Windows Deployment Services (WDS)
