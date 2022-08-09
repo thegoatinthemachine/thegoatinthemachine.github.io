@@ -9,5 +9,5 @@ Supported senior technicians as needed:
  - Performed software and hardware repairs at superiors' instruction.
 
 
-Completed Apple training for certifications, including Apple Certifiet Mac
+Completed Apple training for certifications, including Apple Certified Mac
 Technician (ACMT).
