@@ -2,11 +2,16 @@ IT Help Desk Technician
 North Central Michigan College - Petoskey, MI
 September 2018 to May 2019
 
-Work as student employee under guidance of senior technician
- - Perform limited account administration tasks under guidance
- - Provide phone support for users, guiding them on use of technology
- - Install, update, and maintain Windows 10 on organization computers
- - Install and support software
- - Support various organization equipment, including printers, computers, access points, and AV equipment
- - Install and support ethernet cabling
- - Support the System Engineer as needed
+Supported End Users under guidance of senior technician
+ - Administered Active Directory accounts
+ - Provided remote support for end-users
+ - Used the ticket system to track work, communicate with users and IT staff
+ - Installed, updated, and maintained Windows 10 and software
+ - Supported equipment, including printers, computers, wireless access points,
+   and AV equipment
+ - Installed ethernet cabling
+
+
+Supported the System Engineer as needed:
+ - Informal training in network troubleshooting and engineering
+ - Informal training in using SCCM for systems engineering
