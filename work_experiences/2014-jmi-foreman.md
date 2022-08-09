@@ -2,7 +2,7 @@ heet Metal Foreman
 Johnston Metalwork, Inc - Cheboygan, MI
 2014 to 2019
 
-Lead the metalworking shop in manufacturing duties to complete work tickets for clients during summer season
+Lead the metalworking shop in manufacturing duties to complete work tickets for clients during summer season:
  - Maintain and repair manufacturing equipment.
  - Perform limited lathe-work to maintain custom equipment.
  - Coordinate Just In Time manufacturing
@@ -13,4 +13,4 @@ Lead the metalworking shop in manufacturing duties to complete work tickets for 
  - Train employees on procedures and safety.
 
 
-Maintain computer systems on site
+Maintain computer systems on site.
