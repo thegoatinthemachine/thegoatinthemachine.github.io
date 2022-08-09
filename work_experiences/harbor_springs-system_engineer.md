@@ -12,7 +12,6 @@ September 2019 to Present
 
 
 Administrate district machines and equipment:
-
  - Configure, image, and support 1:1 student and teacher devices running macOS and iOS.
  - Remotely manage and configure district devices using MDM software, including FileWave and Jamf School
  - Configure, image, and support lab machines running Windows. (project lead)
@@ -24,7 +23,6 @@ Administrate district machines and equipment:
 
 
 Secure systems:
-
  - Administrate safe web-filtering for students
  - Secure devices against tampering
  - Maintain least-privileges for users on district devices
@@ -35,7 +33,6 @@ Secure systems:
 
 
 Install, configure, and support Virtual Machine Monitors / Hypervisors:
-
  - Linux KVM/QEMU with libvirt, in CLI and GUI (project lead)
  - Linux KVM/QEMU on ProxMox, in CLI and web interface (project lead)
  - Limited management of VMware ESXi from CLI
@@ -43,7 +40,6 @@ Install, configure, and support Virtual Machine Monitors / Hypervisors:
 
 
 Install, configure, and support services and systems as needed, including:
-
  - Print Servers using CUPS (project lead) and Papercut on CentOS
  - Imaging Server using FOG (project lead)
  - RHEL-based Rocky Linux (project lead)
@@ -57,7 +53,6 @@ Install, configure, and support services and systems as needed, including:
 
 
 Use bash, perl, and powershell, and ansible to automate administrative tasks, including:
-
  - Writing updated OS deployment data to USB drives
  - Automating the erasure and imaging of intel-based macOS
  - Installing printer definitions on Windows and macOS
@@ -70,7 +65,6 @@ Use bash, perl, and powershell, and ansible to automate administrative tasks, in
 
 
 Install, support and configure network equipment as needed:
-
  - AT&T and Verizon Wireless Hotspots for the district
  - HP and Aruba PoE Wireless Access Points
  - HP Switches
