@@ -21,7 +21,7 @@ administrative tasks:
 Manage virtualization platforms:
  - Cluster type-1 hypervisor Proxmox (project lead).
  - Configure replication, migration, and high availability (project lead).
- - Migrate Virtual Machines from VMWare ESXi and Virtualbox Hosts to Proxmox
+ - Migrate Virtual Machines from VMware ESXi and Virtualbox Hosts to Proxmox
    (project lead).
  - Provision and teardown VM servers and LXC containers.
 
