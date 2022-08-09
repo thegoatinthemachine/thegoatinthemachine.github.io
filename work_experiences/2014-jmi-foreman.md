@@ -1,4 +1,4 @@
-heet Metal Foreman
+Sheet Metal Foreman
 Johnston Metalwork, Inc - Cheboygan, MI
 2014 to 2019
 
