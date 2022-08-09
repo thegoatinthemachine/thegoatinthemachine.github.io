@@ -13,3 +13,4 @@ Formal training in:
  - Programming logic
  - Interpersonal Communication
  - Network engineering
+ - Website implementation and design, HTML5, CSS3 and Javascript
