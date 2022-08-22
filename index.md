@@ -1,14 +1,14 @@
 # CV Index
 
 Training and Education:
-./training_and_education/homelab.md
-./training_and_education/ncmc.md
+[Homelab in brief](./training_and_education/homelab.html)
+[North Central Michigan College](./training_and_education/ncmc.html)
 
 Work Experiences:
-./work_experiences/2014-jmi-foreman.md
-./work_experiences/2016-01-charem_isd-field_tech.md
-./work_experiences/2016-08-macpros-desktop_tech.md
-./work_experiences/2018-ncmc-help_desk.md
-./work_experiences/2019-01-charem_isd-systems_engineer_i.md
-./work_experiences/2019-09-harbor_springs-systems_engineer-details.md
-./work_experiences/2019-09-harbor_springs-systems_engineer.md
+[Metalshop foreman](./work_experiences/2014-jmi-foreman.html)
+[Field Technician](./work_experiences/2016-01-charem_isd-field_tech.html)
+[Junior Apple Authorized Service Technician](./work_experiences/2016-08-macpros-desktop_tech.html)
+[Help desk](./work_experiences/2018-ncmc-help_desk.html)
+[System Engineer I](./work_experiences/2019-01-charem_isd-systems_engineer_i.html)
+[System Engineer](./work_experiences/2019-09-harbor_springs-systems_engineer.html)
+[System Engineer Details](./work_experiences/2019-09-harbor_springs-systems_engineer-details.html)
