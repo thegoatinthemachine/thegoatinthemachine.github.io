@@ -1,5 +1,7 @@
 Systems Engineer I
+
 Charlevoix-Emmet ISD - Charlevoix, MI
+
 January 2019 to March 2020
 
 Supported Senior System Engineers as needed.

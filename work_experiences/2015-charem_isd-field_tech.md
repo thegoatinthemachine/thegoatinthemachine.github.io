@@ -1,5 +1,7 @@
 Field Technician
+
 Char-Em ISD - Charlevoix, MI
+
 2015 to 2016
 
 Provide temporary support during senior engineer's leave.

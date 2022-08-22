@@ -1,5 +1,7 @@
 IT Help Desk Technician
+
 North Central Michigan College - Petoskey, MI
+
 2018 to 2019
 
 Supported End Users under guidance of senior technician.
