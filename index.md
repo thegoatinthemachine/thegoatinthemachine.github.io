@@ -19,5 +19,3 @@ Work Experiences:
 [System Engineer I](./work_experiences/2019-01-charem_isd-systems_engineer_i.html)
 
 [System Engineer](./work_experiences/2019-09-harbor_springs-systems_engineer.html)
-
-[System Engineer Details](./work_experiences/2019-09-harbor_springs-systems_engineer-details.html)
