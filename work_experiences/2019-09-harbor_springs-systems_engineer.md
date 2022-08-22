@@ -8,7 +8,7 @@ Research and design solutions to address district needs:
  - Use git to keep scripts, configuration, and documentation in version control.
 
 
-Use Bash, Perl, and Powershell, and Ansible scripting to perform and automate
+Use Bash, Perl, Powershell, and Ansible scripting to perform and automate
 administrative tasks:
  - Writing updated OS deployment data to USB drives (project lead).
  - Erasure, refresh, and upgrade of intel and arm-based macOS (project lead).

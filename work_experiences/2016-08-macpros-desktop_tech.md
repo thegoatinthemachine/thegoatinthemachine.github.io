@@ -1,5 +1,7 @@
 Apple Authorized Service Provider Technician
+
 Macprofessionals, Inc - Petoskey, MI
+
 August 2016 to December 2016
 
 Supported senior technicians as needed:

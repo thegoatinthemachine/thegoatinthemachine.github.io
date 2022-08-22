@@ -1,5 +1,7 @@
 Sheet Metal Foreman
+
 Johnston Metalwork, Inc - Cheboygan, MI
+
 2014 to 2019
 
 Lead the metalworking shop in manufacturing duties to complete work tickets for clients during summer season:
