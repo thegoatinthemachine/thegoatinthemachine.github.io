@@ -1,5 +1,7 @@
 Systems Engineer
+
 Harbor Springs Public Schools - Harbor Springs, MI
+
 September 2019 to Present
 
 
