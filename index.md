@@ -8,6 +8,11 @@ This revision of this site is obviously unstyled, basic html as generated from
 markdown from jekyll courtesty of github pages. It's more important, at the
 moment, to make it work. Then I'll make it good.
 
+Some of my scripts I've written can be found
+[here](https://github.com/thegoatinthemachine/some-admin-scripts). The github
+account which has seen the most activity is my [student account](https://github.com/S-C-Johnston).
+That covers several years of projects in various states of being over-thought,
+but all the projects I completed landed As.
 
 ## CV links
 
