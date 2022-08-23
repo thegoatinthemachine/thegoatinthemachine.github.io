@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Always a work in progress
 
 I'm Stewart. I'm enthusiastic about computers and solving problems with them. I
