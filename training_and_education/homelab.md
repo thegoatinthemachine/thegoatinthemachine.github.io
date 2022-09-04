@@ -1,9 +1,12 @@
 Homelab Projects:
 
-Install nested ESXi environment to learn VMWare -- current
+This website, lol -- current, since 2022
+
+Install nested ESXi environment to learn VMWare -- current, since 2022
  - Deployed ESXi in a nested KVM virtualization environment
 
-Use GNS3 and Packet Tracer to practice Network Engineering -- current
+Use GNS3 and Packet Tracer to practice Network Engineering -- current, since
+2022
  - Deployed GNS3 in a virtualization environment to practice for Network+
  - Used Packet Tracer to learn cisco ios command line fundamentals to practice
    for CCNA
