@@ -17,6 +17,16 @@ account which has seen the most activity is my [student account](https://github.
 That covers several years of projects in various states of being over-thought,
 but all the projects I completed landed As.
 
+## Vimwiki
+
+I've configured vimwiki to work with markdown, and the diary feature out to be
+a pretty convenient way to deal with the _post/YYYY-MM-DD -> blog structure
+that jekyll wants. Wiki [index](wiki/index.md)
+
+## Blog
+
+See [blog](blog)
+
 ## CV links
 
 [LinkedIn](https://www.linkedin.com/in/stewart-johnston-42a4bb240)
