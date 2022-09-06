@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "This blog is another project lol"
+excerpt_separator: <!--more-->
 ---
 
 Blog -> weblog, in this case, build log
@@ -12,7 +13,7 @@ function of jekyll, since this website is an active project, it makes perfect
 sense to blog as I go.
 
 So what's the first project I want to deal with on this site?
-
+<!--more-->
 Make it pretty? Well, eventually, yes, but first...
 
 Problem: I want to see and verify changes before I push them to the live site,
