@@ -1,5 +1,7 @@
 ---
 title: Can into CI and local testing
+layout: post
+excerpt_separator: <!-- more -->
 ---
 
 ## More about deployment errors
@@ -10,6 +12,8 @@ that, because I want to develop and test locally (or at least in a fashion
 which can be adapted besides github's environment). If I understand correctly,
 there may be a way to configure that action to deploy to other providers, like
 Azure, but the documentation is sparse.
+
+<!-- more -->
 
 I *could* attempt to maintain multiple versions of the github provided action
 file, pages.yml, and merge selectively from a dev branch to pages with ``git
