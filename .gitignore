@@ -1,0 +1,5 @@
+#ignore vim auxiliary files
+*~
+.*un
+#ignore macOS metadata files
+.DS_Store
