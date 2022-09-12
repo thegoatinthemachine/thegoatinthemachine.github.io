@@ -1,3 +1,6 @@
+---
+---
+
 ## distro notes
 
 ### Manjaro
