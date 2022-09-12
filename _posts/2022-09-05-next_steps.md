@@ -1,7 +1,5 @@
 ---
 title: Can into CI and local testing
-layout: post
-excerpt_separator: <!--more-->
 ---
 
 ## More about deployment errors
@@ -12,8 +10,7 @@ that, because I want to develop and test locally (or at least in a fashion
 which can be adapted besides github's environment). If I understand correctly,
 there may be a way to configure that action to deploy to other providers, like
 Azure, but the documentation is sparse.
-<!--more-->
- 
+
 I *could* attempt to maintain multiple versions of the github provided action
 file, pages.yml, and merge selectively from a dev branch to pages with ``git
 checkout --patch``. I don't want to do that either, really. The whole shebang
@@ -28,7 +25,7 @@ option. For the scope of this project, getting that working seems to me like
 wasting time. Learning it will hopefully be involved for my career down the
 line, but right this moment, that's *way* out of scope.
 
-[gh_docs_self_hosted_runners](https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners)
+[gh_docs_self_hosted_runners]: https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners
 
 ## The right image with the right dependencies
 
@@ -42,7 +39,7 @@ This is, per their documentation, just straight up a docker image which can be
 pulled by URL, in which commands can be run. Actually building the site with
 jekyll is the important bit, just about anything can serve it locally.
 
-[gh_pkgs_jekyll_build](https://github.com/actions/jekyll-build-pages/pkgs/container/jekyll-build-pages)
+[gh_pkgs_jekyll_build]: https://github.com/actions/jekyll-build-pages/pkgs/container/jekyll-build-pages
 
 ## Serving the files
 

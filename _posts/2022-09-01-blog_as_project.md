@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "This blog is another project lol"
-excerpt_separator: <!--more-->
 ---
 
 Blog -> weblog, in this case, build log
@@ -13,7 +12,7 @@ function of jekyll, since this website is an active project, it makes perfect
 sense to blog as I go.
 
 So what's the first project I want to deal with on this site?
-<!--more-->
+
 Make it pretty? Well, eventually, yes, but first...
 
 Problem: I want to see and verify changes before I push them to the live site,
@@ -34,7 +33,7 @@ up to the defaults, so I could understand how jekyll works.
 
 Enter ``act``. [act][gh/nektos/act] purports to be capable of running github actions locally.
 
-[gh/nektos/act](https://github.com/nektos/act)
+[gh/nektos/act]: https://github.com/nektos/act
 
 ``act`` has a dependency on Docker.
 
