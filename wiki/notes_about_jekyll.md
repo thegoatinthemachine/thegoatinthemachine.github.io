@@ -1,3 +1,6 @@
+---
+---
+
 ## symlinks
 
 Jekyll doesn't want to handle symbolic links for a number of reasons. Git
