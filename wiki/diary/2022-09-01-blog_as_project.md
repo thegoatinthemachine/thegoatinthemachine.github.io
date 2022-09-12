@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "This blog is another project lol"
+layout: post
+excerpt_separator: <!-- more -->
 ---
 
 Blog -> weblog, in this case, build log
@@ -10,6 +11,8 @@ is to do writeups of each of those projects in some amount of detail, and
 though I may or may not do those in their own posts or as part of the blogging
 function of jekyll, since this website is an active project, it makes perfect
 sense to blog as I go.
+
+<!-- more -->
 
 So what's the first project I want to deal with on this site?
 

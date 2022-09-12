@@ -1,5 +1,7 @@
 ---
 title: act for local development
+layout: post
+excerpt_separator: <!-- more -->
 ---
 
 ## Using ``act`` for local development of the site
@@ -7,6 +9,8 @@ title: act for local development
 ``act`` can be installed in both manjaro and macOS from their package
 management. In manjaro, the default-installed tool ``pacman`` will work to pull
 from the AUR. In macOS, ``brew`` will do the trick. Docker is a dependency.
+
+<!-- more -->
 
 But first
 
