@@ -33,7 +33,7 @@ up to the defaults, so I could understand how jekyll works.
 
 Enter ``act``. [act][gh/nektos/act] purports to be capable of running github actions locally.
 
-[gh/nektos/act](https://github.com/nektos/act)
+[gh/nektos/act]: https://github.com/nektos/act
 
 ``act`` has a dependency on Docker.
 
