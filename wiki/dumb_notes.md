@@ -21,7 +21,7 @@ pamac is one such tool built by the Manjaro team. It has a GUI program and a
 CLI program. These can be configured to use the AUR. It also supports flatpack,
 snap, etc, and has multithreading downloads built in.
 
-[aw-AUR_helpers](https://wiki.archlinux.org/title/AUR_helpers)
+[aw-AUR_helpers]: https://wiki.archlinux.org/title/AUR_helpers
 
 ## tool notes
 
@@ -56,4 +56,4 @@ let &t_Cs = "\e[4:3m"
 let &t_Ce = "\e[4:0m"
 ```
 
-[gh-gruvbox-spellcheck-colors](https://github.com/morhetz/gruvbox/issues/372#issuecomment-743232530)
+[gh-gruvbox-spellcheck-colors]: https://github.com/morhetz/gruvbox/issues/372#issuecomment-743232530
