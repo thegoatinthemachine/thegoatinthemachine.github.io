@@ -28,7 +28,7 @@ Having extended it, I now have a more complete call graph:
 
 ![github actions 'configure pages' callgraph][gh_ac_config_pages_2]
 
-[gh_ac_config_pages_2](/assets/images/2022-09-12/gh_act_config_pages_2.png)
+[gh_ac_config_pages_2]: /assets/images/2022-09-12/gh_act_config_pages_2.png
 
 With the ``-verbose`` flag, callGraph also lists the externally referenced
 files, such as modules. It assumes, however, that such files will end in a file
