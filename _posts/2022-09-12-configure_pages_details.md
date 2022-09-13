@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Details of pages and jekyll build workflow
+exerpt_separator: <!-- more -->
 ---
+# {{ page.title }}
 
 So the callGraph script is neat, but nobody can be expected to have in-depth
 knowledge of every language they're attempting to address at first blush. The
@@ -14,6 +16,8 @@ async functions, so I did a quick fork and pull request to insert
 ```
 ...(?:async\s+)?...
 ```
+
+<!-- more -->
 
 After this addition on my local fork, callGraph now successfully recognizes
 async function definitions, of which there are many in this github actions
