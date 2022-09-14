@@ -151,7 +151,7 @@ reasonably confident that I understand how ``act`` processes inputs from
 action.yml as well. My understanding is as follows:
 
 1. In the runner package,
-   ``[setupActionInputs()][gh_act_runner_action_inputs]`` gets a function for
+   [``setupActionInputs()``][gh_act_runner_action_inputs] gets a function for
    how to step through an action.yml file from the appropriate model source
 2. and fills an object ``action`` with the contents of the actions file
    accordingly, including several input keys by their ids.
