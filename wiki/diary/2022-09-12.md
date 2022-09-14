@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Details of pages and jekyll build workflow
-exerpt_separator: <!-- more -->
+excerpt_separator: <!-- more -->
 ---
 # {{ page.title }}
 
