@@ -107,9 +107,9 @@ the [actions/toolkit/core][gh_actions_toolkit_core] repository to the
 actions/runner repo, where it now lives. Per the context clues of the
 discussion, their saying that it's out of scope for the toolkit.
 
-In any event, they pointed to the ``getInput()``
-[function][gh_actions_core_getInput] from the core repository. If you are
-paying attention, you'll see the answer right away.
+In any event, they pointed to the [``getInput()``][gh_actions_core_getInput]
+function from the core repository. If you are paying attention, you'll see the
+answer right away.
 
 [gh_actions_toolkit_core]: https://github.com/actions/toolkit/tree/main/packages/core
 [gh_actions_core_getInput]: https://github.com/actions/toolkit/blob/e6257f111756d2f3567917c8e27ab57de8c3e09c/packages/core/src/core.ts#L134-L155
