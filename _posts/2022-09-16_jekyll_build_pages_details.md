@@ -11,6 +11,8 @@ github-pages uses/allows.
 So I moved on to actions-jekyll-build-pages. This is where the juicy stuff is,
 as far as I can tell.
 
+<!-- more -->
+
 ## actions/jekyll-build-pages
 
 Because I can't be satisfied with knowing how I'm meant to interact with
