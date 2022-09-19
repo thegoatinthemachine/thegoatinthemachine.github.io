@@ -47,9 +47,10 @@ filetype plugin on
 syntax enable
 ```
 
-*before* I call ``colorscheme gruvbox``. In the event that undercurls are
-desirable, the vimhelp document about the :hilight section notes these
-commands:
+*before* I call ``colorscheme gruvbox``.
+
+In the event that undercurls are desirable, the vimhelp document about the
+:hilight section notes these commands:
 
 ```vim
 let &t_Cs = "\e[4:3m"
@@ -73,7 +74,7 @@ Less can deal with colors if you tell it to interpret raw control codes,
 however, if you use ``-R``:
 
 ```bash
-grep ... --colors=always | less -R
+grep ... --color=always | less -R
 ```
 
 less will render this piped output nicely, which depending on your version of
