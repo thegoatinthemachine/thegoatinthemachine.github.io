@@ -3,6 +3,21 @@
 
 ## distro notes
 
+### macOS
+
+#### Webcam driver failure
+
+If macOS is allowed to run without interruption for an extended period of time,
+it is possible that the processes controlling the webcam may get hinky. I am
+unclear on why exactly this happens.
+
+Two commands can resolve this, depending on which process failed.
+
+```bash
+sudo killall VDCAssistant
+sudo killall AppleCameraAssistant
+```
+
 ### Manjaro
 
 #### Installing a package from AUR (Arch User Repository)
