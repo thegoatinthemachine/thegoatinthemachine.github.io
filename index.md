@@ -19,9 +19,9 @@ but all the projects I completed landed As.
 
 ## Vimwiki
 
-I've configured vimwiki to work with markdown, and the diary feature out to be
-a pretty convenient way to deal with the _post/YYYY-MM-DD -> blog structure
-that jekyll wants. Wiki [index](wiki/index.md)
+I've configured vimwiki to work with markdown, and the diary feature turns out
+to be a pretty convenient way to deal with the _post/YYYY-MM-DD -> blog
+structure that jekyll wants. Wiki [index](wiki/index.md)
 
 ## Blog
 
