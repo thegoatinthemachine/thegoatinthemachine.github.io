@@ -6,6 +6,7 @@
 
 ### September
 
+- [Technical interview after-action review](2022-09-27)
 - [Screening interview after-action review](2022-09-21)
 - [2022-09-16](2022-09-16)
 - [2022-09-12](2022-09-12)
