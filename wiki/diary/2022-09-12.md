@@ -55,7 +55,7 @@ github token, either one auto-generated in the context of the action runner
 which it would be if it's hosted by github, or a personal access token
 otherwise. Essentially, none of the action for configuring pages is relevant to
 local development, it's almost all external to the cloud provider, in this case
-github pages hosting per their [API](api.github.com), or informative.
+github pages hosting per their [API](https://api.github.com), or informative.
 Otherwise, it's establishing basic config files for nuxt, next, sveltekit, or
 gatsby, none of which are relevant here.
 
