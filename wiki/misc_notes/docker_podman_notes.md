@@ -7,7 +7,7 @@
 
 ### Entrypoint
 
-``ENTRYPOINT`` has multiple formats[^1].
+``ENTRYPOINT`` has multiple formats[1].
 
 It's important not to confuse Exec format and Shell format:
 - Exec: ENTRYPOINT ["command", "arg1", "arg2"]
@@ -18,7 +18,7 @@ It does *not* allow for any additional arguments to pass through during
 ``docker/podman run``, and neither of those tools will provice a warning or
 introspection about that.
 
-[^1]: https://docs.docker.com/engine/reference/builder/#entrypoint
+[1]: https://docs.docker.com/engine/reference/builder/#entrypoint
 
 ## Running images as containers
 
