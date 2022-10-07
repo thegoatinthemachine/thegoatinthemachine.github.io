@@ -36,6 +36,28 @@ let &t_Ce = "\e[4:0m"
 
 [gh-gruvbox-spellcheck-colors]: https://github.com/morhetz/gruvbox/issues/372#issuecomment-743232530
 
+#### filetype indent
+
+In vim, filetype indent is not automatically set to on by default. I
+specifically will want it turned on for a handful of filetypes, particularly
+YAML, since that's whitespace sensitive and the filetype indent plugin for it
+is well-written.
+
+```vim
+:filetype indent on
+```
+
+##### YAML indent
+
+YAML (probably python, also, since it's similarly whitespace sensitive)
+indenting doesn't really work well if the line being indented is
+under-indented. The formatter does not want to accidentally move the scope of a
+line too deep, which makes sense. However, if the top-most context in a block
+is correctly indented, and all subsequent contents are shifted further in, the
+formatting will correctly handle them. Similarly, once this context is
+achieved, the vim wrapping ``gqq`` and etc, will correctly manage a visual
+selection.
+
 ### grep
 
 #### colors and pagers
