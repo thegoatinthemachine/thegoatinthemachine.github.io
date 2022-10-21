@@ -4,6 +4,12 @@
 
 ## 2022
 
+### October
+
+- [Comptia Certified!](2022-10-21)
+- [Interviews after-action review](2022-10-11)
+- [A different project distracted me](2022-10-06)
+
 ### September
 
 - [Technical interview after-action review](2022-09-27)
