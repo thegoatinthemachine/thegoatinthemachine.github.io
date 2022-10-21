@@ -1,6 +1,18 @@
 ---
 ---
+
+
 ## tool notes
+
+## Contents
+
+        - [tool notes](#tool notes)
+                - [vim](#tool notes#vim)
+                        - [gruvbox spellcheck weirdness in tmux over ssh and etc](#tool notes#vim#gruvbox spellcheck weirdness in tmux over ssh and etc)
+                        - [filetype indent](#tool notes#vim#filetype indent)
+                                - [YAML indent](#tool notes#vim#filetype indent#YAML indent)
+                - [grep](#tool notes#grep)
+                        - [colors and pagers](#tool notes#grep#colors and pagers)
 
 ### vim
 
