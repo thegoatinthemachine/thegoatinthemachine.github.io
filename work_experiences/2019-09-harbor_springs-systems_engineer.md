@@ -1,56 +1,30 @@
-Systems Engineer
+Systems Engineer  
+Harbor Springs Public Schools - Harbor Springs, MI  
+September 2019 to September 2022 (3 years, 1 month)
 
-Harbor Springs Public Schools - Harbor Springs, MI
+Wrote scripts and automation with bash, perl, powershell, ansible, and managed version control with git:
+- Script to push updated macOS deployment data to USB drives in parallel
+- Ansible playbook for re-imaging and upgrade of intel and arm-based macOS
+- Scripts to install CUPS-compatible printer definitions on Windows and macOS
 
-September 2019 to Present
+Managed virtualization platforms VMware ESXi, and Proxmox:
+- Configured replication, migration, and high availability
+- Migrated Virtual Machines from VMware ESXi and Virtualbox Hosts to Proxmox
+- Provision and teardown VM servers and LXC containers.
 
+Installed, configured, and supported services and systems:
+- Configured, imaged, and supported Windows 10 devices, leading the initiative
+  for a fungible push-button imaging system.
+- Implemented imaging server using FOG on RHEL-based Rocky Linux 8.
+- Configured VPN Software including OpenVPN.
+- Set up print Servers using CUPS and Papercut on CentOS 7.
+- Supported Windows Server and Azure Active Directory, including Azure App
+  integrations for cloud-enabled credentialling.
+- Supported and configured several MDM systems including FileWave and Jamf
+  School, handling end-user macOS and iOS devices
 
-Research and design solutions to address district needs:
- - Document systems, procedures, and solutions.
- - Use git to keep scripts, configuration, and documentation in version control.
-
-
-Use Bash, Perl, Powershell, and Ansible scripting to perform and automate
-administrative tasks:
- - Writing updated OS deployment data to USB drives (project lead).
- - Erasure, refresh, and upgrade of intel and arm-based macOS (project lead).
- - Installing printer definitions on Windows and macOS (project lead).
- - Configuration management on end-user devices and servers.
- - Generating and consuming reports about end-users, devices, and activity.
- - Remotely manage Linux servers, macOS hosts, and Windows hosts & servers.
-
-
-Manage virtualization platforms:
- - Cluster type-1 hypervisor Proxmox (project lead).
- - Configure replication, migration, and high availability (project lead).
- - Migrate Virtual Machines from VMware ESXi and Virtualbox Hosts to Proxmox
-   (project lead).
- - Provision and teardown VM servers and LXC containers.
-
-
-Install, configure, and support services and systems as needed:
- - Imaging Server using FOG on RHEL-based Rocky Linux 8 (project lead).
- - Configure, image, and support Windows 10 devices. (project lead).
- - VPN Software including OpenVPN (project lead).
- - Print Servers using CUPS (project lead) and Papercut on CentOS 7.
- - Various SQL backends, including PostgreSQL and MariaDB.
- - Low-complexity powerschool, SIS integrations with Apple School Manager.
- - Administer the hybrid domain in Active Directory on Windows Server
-   2008/2012/2016, Azure, and Google Workspace for Education.
- - Administer GPO automation for Windows devices.
- - Administer MDM Services including FileWave and Jamf School.
- - Work with vendors to understand and provide solutions.
-
-
-Secure systems:
- - Administer safe web-filtering for students.
- - Administer the Palo Alto firewall.
- - Secure endpoints against tampering.
- - Investigate security breaches.
-
-
-Install, support and configure network equipment as needed:
- - AT&T and Verizon Wireless Hotspots for the district.
- - HP and Aruba PoE Wireless Access Points.
- - HP Switches.
- - DHCP, DNS, and File Sharing Services on Window Server.
+- Supported a network and associated hardware spanning 3 campus locations,
+  including retrofits, hardware troubleshooting, running cable and configuring
+  WAPs
+- Configured the Palo Alto firewall
+- Configured web-filtering for student body
