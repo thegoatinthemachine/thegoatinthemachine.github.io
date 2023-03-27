@@ -29,8 +29,6 @@ See [blog](blog)
 
 ## CV links
 
-[System Engineer Resume](Resume-SysEng-Stewart-Johnston.pdf)
-
 [LinkedIn](https://www.linkedin.com/in/stewart-johnston-42a4bb240)
 
 Training and Education:
