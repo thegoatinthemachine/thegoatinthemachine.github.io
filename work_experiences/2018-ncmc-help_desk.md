@@ -1,18 +1,15 @@
-IT Help Desk Technician
-
-North Central Michigan College - Petoskey, MI
-
+IT Help Desk Technician  
+North Central Michigan College - Petoskey, MI  
 2018 to 2019
 
 Supported End Users under guidance of senior technician.
- - Administered Active Directory accounts.
- - Provided remote support for end-users.
- - Used the ticket system to track work, communicate with users and IT staff.
- - Installed, updated, and maintained Windows 10 and software.
- - Supported equipment, including printers, computers, wireless access points,
-   and AV equipment.
- - Installed ethernet cabling.
-
+- Administered Active Directory accounts.
+- Provided remote support for end-users.
+- Used the ticket system to track work, communicate with users and IT staff.
+- Installed, updated, and maintained Windows 10 and software.
+- Supported equipment, including printers, computers, wireless access points,
+  and AV equipment.
+- Installed cat5e cabling.
 
 Supported the System Engineer as needed:
  - Informal training in network troubleshooting and engineering.
