@@ -1,7 +1,7 @@
-System Engineer III
-Tential Solutions
-Oct 2022 - Mar 2023 (6 months)
-Contract client: FINRA - Platform Engineering Windows
+System Engineer III  
+Tential Solutions  
+Oct 2022 - Mar 2023 (6 months)  
+Contract client: FINRA - Platform Engineering Windows  
 
 > Develop automation to deploy resources using code in cloud and on-prem
   environments, primarily using Powershell

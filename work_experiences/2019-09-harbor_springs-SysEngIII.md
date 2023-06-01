@@ -1,6 +1,6 @@
-Systems Engineer III
-Harbor Springs Public Schools - Harbor Springs, MI
-September 2019 to September 2022 (3 years, 1 month)
+Systems Engineer III  
+Harbor Springs Public Schools - Harbor Springs, MI  
+September 2019 to September 2022 (3 years, 1 month)  
 
 * Wrote Bash scripts to simultaneously push MacOS imaging files to multiple USB
   drives, reducing human labor and errors in provisioning updated MacOS images
