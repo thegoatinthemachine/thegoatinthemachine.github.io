@@ -90,3 +90,42 @@ grep ... --color=always | less -R
 
 less will render this piped output nicely, which depending on your version of
 grep can include highlighting the search string, the filenames, etc.
+
+### ssh & git
+
+Using multiple accounts on github is most easily achieved by using ssh key
+login, and a custom ssh config file. A good overview of the procedure is
+[here](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
+
+The critical bit is getting the git repo to configure correctly on a per-user
+basis. When git configured to use ssh keys, it will read from top-bottom the
+ssh config, and use the first matching pattern. The ssh config file (see
+`man ssh_config`) can typically be found at `~/.ssh/config`, and defines the
+Host entries in order.
+
+In an individual git repo, the remote origin can be seen by using
+`git config -l` or `git remote get-url origin`. This url is read by git as an
+ssh Host entry, and it will match against the first Host, and replace
+everything between the user (`git@`) and the repository
+(`:thegoatinthemachine/$repo_name`) with the HostName defined in the ssh config
+file.
+
+So, with a `~/.ssh/config` Host entry of:
+
+```
+Host github-example
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_example
+```
+
+The command
+
+`git remote origin set-url git@github-example:example_user/example_repo.git`
+
+will correctly use the url `git@github.com:example_user/example_repo.git`, but
+will supply the IdentityFile `~/.ssh/id_example`, which github will recognize
+on a 1:1 basis with the correct user.
+
+Other, more complex rules, such as anti-matching
+(`from='!wronghost,actualhost'`) are available, but out of scope of this note.
