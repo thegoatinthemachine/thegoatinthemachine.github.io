@@ -1,4 +1,4 @@
-System Engineer III  
+System Engineer III / Platform Engineer  
 Tential Solutions  
 Oct 2022 - Mar 2023 (6 months)  
 Contract client: FINRA - Platform Engineering Windows  
