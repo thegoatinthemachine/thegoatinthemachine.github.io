@@ -1,21 +1,21 @@
 ---
 layout: home
 ---
-# Always a work in progress
+# Insatiable curiosity
 
-I'm Stewart. I'm enthusiastic about computers and solving problems with them. I
-have enjoyed the latitude to design and implement solutions, and I can't go
-back.
+I am Stewart Johnston, and I am what happens when a formally trained programmer
+enjoys a career in Information Technology. My passion is to automate large IT
+systems by any means at my disposal, and I will learn anything I need to do
+this.
 
-This revision of this site is obviously unstyled, basic html as generated from
-markdown from jekyll courtesty of github pages. It's more important, at the
-moment, to make it work. Then I'll make it good.
+I have two github accounts, one personal and one academic:
+- Personal: https://github.com/thegoatinthemachine/
+- Academic: https://github.com/S-C-Johnston
 
-Some of my scripts I've written can be found
-[here](https://github.com/thegoatinthemachine/some-admin-scripts). The github
-account which has seen the most activity is my [student account](https://github.com/S-C-Johnston).
-That covers several years of projects in various states of being over-thought,
-but all the projects I completed landed As.
+On the personal github account is to be found more of the IT relevant work that
+I've done which I had permission to share publicly, scrubbed of course of any
+identifiable details. It is obviously lacking in anything proprietary I did not
+have permission to share.
 
 ## Vimwiki
 
@@ -39,7 +39,7 @@ Training and Education:
 
 Work Experiences:
 
-[System Engineer III](./work_experiences/2022-10-tential_finra-SysEngIII.html)
+[Platform Engineer](./work_experiences/2022-10-tential_finra-SysEngIII.html)
 
 [System Engineer III](./work_experiences/2019-09-harbor_springs-SysEngIII.html)
 
